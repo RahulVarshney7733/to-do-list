@@ -17,8 +17,8 @@ Clone the repository to your local machine. Open index.html in your web browser.
 ## Screenshots
 
 
+https://github.com/RahulVarshney7733/to-do-list/assets/143241458/1d4dc36a-cedd-4a96-97be-d351db9dc7ba
 
-Uploading To-Do List - Google Chrome 2024-01-02 18-49-33.mp4…
 
 
 ## Author
