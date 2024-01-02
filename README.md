@@ -9,7 +9,7 @@ A simple to-do list application made with HTML, CSS, and JavaScript.
 - Tasks can be added one by one.
 
 ## How to Use
-
+Clone the repository to your local machine. Open index.html in your web browser.
 1. Open `index.html` in your web browser.
 2. Enter a task in the input field.
 3. Click the "Add" button to add the task to the list.
